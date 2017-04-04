@@ -1,0 +1,106 @@
+{
+  "parking" : {
+    "building" : {
+      "floors" : [ null, {
+        "level" : 1,
+        "parkingSpots" : [ null, {
+          "free" : true,
+          "id" : 1,
+          "x" : 1,
+          "y" : 1
+        }, {
+          "free" : true,
+          "id" : 2,
+          "x" : 2,
+          "y" : 1
+        }, {
+          "free" : true,
+          "id" : 3,
+          "x" : 3,
+          "y" : 1
+        }, {
+          "free" : true,
+          "id" : 4,
+          "x" : 1,
+          "y" : 2
+        }, {
+          "free" : true,
+          "id" : 5,
+          "x" : 2,
+          "y" : 2
+        }, {
+          "free" : true,
+          "id" : 6,
+          "x" : 3,
+          "y" : 2
+        }, {
+          "free" : true,
+          "id" : 7,
+          "x" : 1,
+          "y" : 3
+        }, {
+          "free" : true,
+          "id" : 8,
+          "x" : 2,
+          "y" : 3
+        }, {
+          "free" : true,
+          "id" : 9,
+          "x" : 3,
+          "y" : 3
+        } ]
+      }, {
+        "level" : 2,
+        "parkingSpots" : [ null, {
+          "free" : true,
+          "id" : 1,
+          "x" : 1,
+          "y" : 1
+        }, {
+          "free" : true,
+          "id" : 2,
+          "x" : 2,
+          "y" : 1
+        }, {
+          "free" : true,
+          "id" : 3,
+          "x" : 3,
+          "y" : 1
+        }, {
+          "free" : true,
+          "id" : 4,
+          "x" : 1,
+          "y" : 2
+        }, {
+          "free" : true,
+          "id" : 5,
+          "x" : 2,
+          "y" : 2
+        }, {
+          "free" : true,
+          "id" : 6,
+          "x" : 3,
+          "y" : 2
+        }, {
+          "free" : true,
+          "id" : 7,
+          "x" : 1,
+          "y" : 3
+        }, {
+          "free" : true,
+          "id" : 8,
+          "x" : 2,
+          "y" : 3
+        }, {
+          "free" : true,
+          "id" : 9,
+          "x" : 3,
+          "y" : 3
+        } ]
+      } ],
+      "loader" : {
+        "loader" : "loader"
+      }
+    }
+  }
+}

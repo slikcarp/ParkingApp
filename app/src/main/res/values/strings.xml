@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ParkingApp</string>
+    <string name="car_id">car_id</string>
+    <string name="shared_preferences_name">com.vehicleapp.mac.CarSharedPreferences</string>
+    <string name="parking_spot_floor">parking_spot_floor</string>
+    <string name="parking_spot_x">parking_spot_x</string>
+    <string name="parking_spot_y">parking_spot_y</string>
+    <string name="parking_spot_id">parking_spot_id</string>
+    <string name="click_a_button_to_interact">Click a button to interact.</string>
+</resources>
